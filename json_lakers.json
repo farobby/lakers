@@ -1,0 +1,49 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "LeBron James",
+      "birth_date": "1984-12-30",
+      "Position": "Forward",
+      "International": "United States",
+      "Team": "Lakers",
+      "Poster": "https://i.postimg.cc/abc123/LeBron-James.jpg"
+    },
+    {
+      "no": "23",
+      "name": "Anthony Davis",
+      "birth_date": "1993-03-11",
+      "Position": "Forward-Center",
+      "International": "United States",
+      "Team": "Lakers",
+      "Poster": "https://i.postimg.cc/abc123/Anthony-Davis.jpg"
+    },
+    {
+      "no": "6",
+      "name": "Russell Westbrook",
+      "birth_date": "1988-11-12",
+      "Position": "Guard",
+      "International": "United States",
+      "Team": "Lakers",
+      "Poster": "https://i.postimg.cc/abc123/Russell-Westbrook.jpg"
+    },
+    {
+      "no": "2",
+      "name": "Dwight Howard",
+      "birth_date": "1985-12-08",
+      "Position": "Center",
+      "International": "United States",
+      "Team": "Lakers",
+      "Poster": "https://i.postimg.cc/abc123/Dwight-Howard.jpg"
+    },
+    {
+      "no": "9",
+      "name": "Rajon Rondo",
+      "birth_date": "1986-02-22",
+      "Position": "Guard",
+      "International": "United States",
+      "Team": "Lakers",
+      "Poster": "https://i.postimg.cc/abc123/Rajon-Rondo.jpg"
+    }
+  ]
+}
